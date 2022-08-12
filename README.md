@@ -51,8 +51,6 @@ The gamepad can be used to play in-game. To navigate throughout the menu, the ke
 ***
 
 ## Screenshots
-<img src="https://github.com/AlejandroDCastro/SETBACK-Z80/blob/main/game/pics/menu_ingame.png" alt="Menu" width="575">
-
-<img src="https://github.com/AlejandroDCastro/SETBACK-Z80/blob/main/game/pics/ingame1.png" alt="Picture 1">
-
-<img src="https://github.com/AlejandroDCastro/SETBACK-Z80/blob/main/game/pics/ingame2.png" alt="Picture 2" width="575">
+<img src="https://github.com/AlejandroDCastro/SETBACK-Z80/blob/main/game/pics/menu_ingame.png" alt="Menu" width="500">&nbsp;<img src="https://github.com/AlejandroDCastro/SETBACK-Z80/blob/main/game/pics/ingame1.png" alt="Picture 1" width="470">
+<br>
+<img src="https://github.com/AlejandroDCastro/SETBACK-Z80/blob/main/game/pics/ingame2.png" alt="Picture 2" width="500">
